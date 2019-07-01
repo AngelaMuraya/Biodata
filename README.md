@@ -19,5 +19,6 @@ My favorite food cartoon movie is ![BabyBoss](https://1645110239.rsc.cdn77.org/i
 - MSc Student at JKUAT
 - Currently completed my coursework. 
 Affiliations Amboseli Baboon Research Project, Instititute of Primate Research
-- Likes the red rabbit [Image](https://amboselibaboons.nd.edu/assets/72459/506x/dsc_2400.jpg)
+
+- Likes the Olive Baboons [Image](https://amboselibaboons.nd.edu/assets/72459/506x/dsc_2400.jpg)
 
