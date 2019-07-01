@@ -1,5 +1,14 @@
 # Biodata
 Collaborators should give a brief description of their Name, background and other relevant particulars such as projects they are currently working on
 
+I am Angela Muraya, an MSc. student from JKUAT studying Molecular Biology and Bioinfromatics. I have an interest in:
+1. Genomics and gene sequencing
+2. Transcriptomics
 
-My name is Margaret Wanjiku. I did Biochemistry for my undergrad degree. I am currently at Pwani doing a masters in Bioinformatics. I am fascinated by genes and the human body as a whole. I love Bioinformatics and I feel priveleged to be in this course. Though excruciatingly exhausting, I love the journey thus far. I look forward starting my project.
+My motto in life is
+> Be the best version of yourself always.
+
+----
+ I am an enthusiast of 
+ ![Open Science](https://spoman-os.org/wp-content/uploads/2017/11/OPEN-SCIENCE_logo_FINAL.png)
+ 
