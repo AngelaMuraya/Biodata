@@ -5,4 +5,4 @@ Collaborators should give a brief description of their Name, background and othe
 - MSc Student at JKUAT
 - Currently completed my coursework. 
 Affiliations Amboseli Baboon Research Project, Instititute of Primate Research
-- Likes the red rabbit [Image](https://amboselibaboons.nd.edu/assets/72459/506x/dsc_2400.jpg)
+- Likes the Olive Baboons [Image](https://amboselibaboons.nd.edu/assets/72459/506x/dsc_2400.jpg)
